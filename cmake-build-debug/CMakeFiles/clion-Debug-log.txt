@@ -1,0 +1,4 @@
+"/Users/sujayvatti/Applications/CLion 2023.2.1.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/Users/sujayvatti/Applications/CLion 2023.2.1.app/Contents/bin/ninja/mac/ninja" -G Ninja -S /Users/sujayvatti/Desktop/College/TA/occlusionCpp -B /Users/sujayvatti/Desktop/College/TA/occlusionCpp/cmake-build-debug
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /Users/sujayvatti/Desktop/College/TA/occlusionCpp/cmake-build-debug
