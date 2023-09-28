@@ -47,9 +47,8 @@ This project calculates the occlusion angles for `N` non-overlapping rectangles 
 
 The solution was verified by printing overlaps using Python to show that it's working as expected and comparing the results against expected outcomes.
 
-![image](https://github.com/jayvatti/occlusionRectangles2Dcpp/assets/97709855/385a5376-aa22-47bf-b20a-3298748d9651)
+![image](https://github.com/jayvatti/occlusionRectangles2Dcpp/assets/97709855/5ca5c91d-7cd7-40f8-8384-7678c52a4cf1)
 
-![image](https://github.com/jayvatti/occlusionRectangles2Dcpp/assets/97709855/7a0432c7-cd41-457d-a514-a2e9e6f5c95a)
 
 
 
