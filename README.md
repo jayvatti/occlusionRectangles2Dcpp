@@ -49,7 +49,7 @@ The solution was verified by printing overlaps using Python to show that it's wo
 
 ![image](https://github.com/jayvatti/occlusionRectangles2Dcpp/assets/97709855/5ca5c91d-7cd7-40f8-8384-7678c52a4cf1)
 
-
+![image](https://github.com/jayvatti/occlusionRectangles2Dcpp/assets/97709855/8dd98ebb-e201-41d1-b823-047d9228bcae)
 
 
 
